@@ -22,3 +22,4 @@ console.log(formatearPrecio(valorInventario()));
 
 console.log("\n--- PRODUCTOS DE LA CATEGORÍA GRANOS ---");
 console.log(listarPorCategoria("granos"));
+console.log("Proyecto actualizado correctamente");
