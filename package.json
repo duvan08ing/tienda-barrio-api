@@ -1,4 +1,3 @@
-
 {
   "name": "tienda-barrio-api",
   "version": "1.0.0",
@@ -12,5 +11,8 @@
   "keywords": [],
   "author": "Duvan Stiven Jaramillo Gonzalez",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
 }
